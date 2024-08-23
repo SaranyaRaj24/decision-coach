@@ -1,0 +1,36 @@
+.pink{
+    width: 30rem;
+    border: 1px solid black;
+}
+
+th {
+  background-color: #f2f2f2;
+  cursor: pointer; 
+}
+
+th:hover {
+  background-color: #ddd; 
+  color: #000; 
+}
+.fig{
+    bottom: 34.5rem;
+    margin-left: 53rem;
+    position: absolute;
+    
+}
+.rout{
+    margin-left: 46rem;
+    position: relative;
+    bottom: 32rem;
+}
+
+.card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  margin: 2rem 1rem;
+  width: 32rem;
+ 
+}
+

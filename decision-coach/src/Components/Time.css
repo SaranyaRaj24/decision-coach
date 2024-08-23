@@ -1,0 +1,37 @@
+.buttonn-container {
+  margin-top: 6rem;
+  margin-left: 2rem;
+
+}
+
+.button-group {
+  margin-top: 1rem;
+  margin-left: 1rem;
+  
+}
+
+.tag-container {
+  display: flex;
+  align-items: center;
+  margin-top: 1rem;
+  margin-left: 6.5rem;
+}
+
+.tag {
+  margin-right: 1rem;
+}
+
+.dropdown-container {
+  position: relative;
+  bottom: 3rem;
+  margin-right: 2rem;
+
+}
+
+.field {
+  width: 2rem; 
+  margin-left: 1rem; 
+}
+
+
+

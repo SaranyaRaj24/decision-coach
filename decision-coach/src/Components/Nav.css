@@ -1,0 +1,77 @@
+
+
+.containerr {
+  background-color: #25274D;
+  height: 3.7rem;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  display: flex;
+  align-items: center;
+  padding: 0 1rem;
+  z-index: 1000; 
+}
+
+
+.tech {
+  height: 4rem;
+  margin-left: 1rem;
+}
+
+
+.style {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  gap: 1rem;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+
+.test {
+  height: 3.7rem;
+  color: aliceblue;
+  background-color: transparent; 
+  border: none;
+  padding: 0 1rem; 
+  cursor: pointer;
+  position: relative;
+}
+
+.test:hover {
+  background-color: #24305E;
+}
+
+
+.dropdown {
+  position: relative;
+}
+
+
+.dropdown-menu {
+  display: none; 
+  position: absolute;
+  top: 100%; 
+  right: 0;
+  background-color: #fff; 
+  border: 1px solid #0c0c0c;
+  border-radius: 4px;
+  z-index: 2000; 
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+
+.dropdown-menu a {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #000; 
+  text-decoration: none; 
+}
+
+.dropdown-menu a:hover {
+  background-color: #f0f0f0;
+}

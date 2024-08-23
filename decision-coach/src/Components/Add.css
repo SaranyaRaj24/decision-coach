@@ -1,0 +1,9 @@
+
+
+@media screen and (max-width: 600px) {
+  .live {
+    display: flex;
+    gap: 1rem;
+  }
+
+}

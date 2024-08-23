@@ -1,0 +1,87 @@
+ 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.bac {
+  width: 100%;
+  margin: 1rem auto; 
+}
+
+.bac th, .bac td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.bac th {
+  background-color: #25274D;
+  color: azure;
+  font-weight: bold;
+  font-size: 1.1rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bac td {
+  font-size: 1rem;
+}
+
+/* Styling for action icons */
+.bac .action-icons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.bac .action-icons img {
+  width: 20px;
+  height: 20px;
+}
+
+/* Additional styling for elements */
+.but {
+  position: relative;
+  top: 1rem;
+  margin-left: 2rem;
+  color: aquamarine;
+}
+
+.tag {
+  position: relative;
+  margin-left: 40rem;
+  color: black;
+  width: 36rem;
+  border-radius: 20rem;
+  bottom: 3rem;
+}
+
+.fry {
+  margin-left: 58.5rem;
+  width: 17rem;
+  position: relative;
+  border-radius: 8px;
+  border: 1px solid peachpuff;
+  bottom: 5.5rem;
+}
+
+.icons {
+  position: relative;
+  font-size: 20px;
+  padding: 10px;
+  top: 2px;
+}
+
+.input {
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+
+.butt {
+  padding: 1rem;
+  display: flex;
+  gap: 0.5rem;
+}
+

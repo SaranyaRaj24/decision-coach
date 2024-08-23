@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.test{
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    color: rgb(7, 8, 8);
+    cursor: pointer;
+    z-index: 0;
+    border-radius: 5px;
+    background-color:
+    #25274D;
+}
+.hi{
+position:fixed;
+margin-left:3rem;
+display: flex;
+top: 12rem;
+gap: 3rem;
+font-weight:100;
+font-size: 3rem;
+
+}
+.coach{
+  position:static;
+  height: 50rem;
+  width: 80rem; 
+  bottom: 15rem;
+}  
+.hello{
+    font-size: 2rem;
+    font-weight:100;
+ border-radius: 12px;
+ height: 9rem;
+   color:black;
+  background-color: #404040;
+}

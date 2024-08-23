@@ -1,0 +1,52 @@
+
+.background-container {
+  background-color: #AAABB8;
+  width: 80rem;
+  height: 40rem;
+  padding: 2rem; 
+  box-sizing: border-box; 
+}
+
+.header {
+  margin-top: 4rem;
+  font-weight:bolder;
+  font-size: 1.3rem;
+  
+}
+
+.decision-card {
+  margin-top: 2rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: white;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+.edit-button {
+  background-color: #24305E;
+  border: none;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.edit-button:hover {
+  background-color: #1a2331; 
+}

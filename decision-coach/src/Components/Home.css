@@ -1,0 +1,103 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+ .Full{
+  display: flex;
+  flex-direction: column;
+  gap: 20px; 
+  
+}
+.icon{
+  margin-right: 30px;
+  color:#25274D
+}
+.check{
+  margin-right: 70px;
+}
+
+.body{
+  margin-left: 54rem;
+  bottom: 50rem;
+  font-size: 15px;
+  font-weight: bold;
+  color: aliceblue;
+
+  
+ }
+.remember{
+  margin-left: 52rem;
+  bottom: 50rem;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 2rem;
+  color:#25274D
+  
+}
+.Forgot{
+  padding: 2rem;
+  color:#25274D
+  
+}
+
+.reg{
+  margin-left: 54rem;
+  bottom: 50rem;
+  font-size: 13px;
+  font-weight: bold;
+  color:#25274D;
+  padding: 1rem;
+   
+  
+}
+.regis{
+  padding: 1rem;
+  color:#25274D
+}
+ .Home {
+  position:fixed;
+  margin-left: 70rem;
+  font-size: 20px;
+  font-weight: bold;
+ top: 1rem;
+  color:aliceblue
+} 
+
+.containerr {
+  background-color:#25274D;
+  height: 3.6rem;
+  position: fixed;
+  width: 80rem;
+}
+.tech {
+  height: 46px;
+  margin-left: 65px;
+  padding: 8px;
+  position: fixed;
+  
+} 
+
+.img{
+  position: relative;
+  bottom: 25rem;
+  height: 10rem;
+  width: 20rem;
+  margin-left: 10rem;
+}
+.pic{
+  position: relative;
+  height: 10rem;
+  width: 20rem;
+  bottom: 22rem;
+  margin-left: 2rem;
+}
+.log {
+  margin-left: 60rem;
+ margin-top: 9rem;
+  font-size: 20px;
+  font-weight: bold;
+  color:#25274D;
+  
+  
+
+}  
+
+
