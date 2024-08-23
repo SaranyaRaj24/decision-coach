@@ -30,7 +30,7 @@
   font-size: 1rem;
 }
 
-/* Styling for action icons */
+
 .bac .action-icons {
   display: flex;
   gap: 0.5rem;
@@ -41,7 +41,7 @@
   height: 20px;
 }
 
-/* Additional styling for elements */
+
 .but {
   position: relative;
   top: 1rem;
